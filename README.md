@@ -17,4 +17,4 @@ O programa pode realizar buscas por:
 
 Além disso, algumas pessoas podem usá-lo para finalidades questionáveis. Aguarde a versão final!
 
-Obrigado pelo apoio! Me siga no TikTok: P1UN-TECH
+Obrigado pelo apoio! Me siga no Youtube: https:youtube.com/@hyimjamal
