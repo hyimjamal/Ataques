@@ -6,22 +6,14 @@ from remote import servidor
 import platform
 from remote import Plataforma
 init(autoreset=True)
-"""
-Author: P1UN
-GITHUB:Hymjames
-DESC: Use somente pra propositos educacions porfavor, o programa pode ser como espiao e facilitar,
-em ataques de sistemas, se gostou porfavor deixe o like na minha pagina do tiktok e youtube,
-apartir de la vais aprender como fazer ataques mais inteligentes, obrigado
-
-"""
+webbrowser.open("https://www.youtube.com/@hyimjamal")
 class Web:
     def __init__(self):
         p="""
-        Autor: P1UN
-        TIKTOK:P1UN-TECH
-        YOUTUBE:
-        FACEBOOK:
-        Github:HYmjames
+        Autor: Hyimjamal
+        YOUTUBE:https://www.youtube.com/@hyimjamal
+        FACEBOOK:hyimjamal
+        Instagram:instagram.com/eusoujamal_oficial?igsh=aGllMXMyZXV6M3po
         Deixe um incentivo deixando likes nas paginas.
 
         Tutorial: Uso somente por questoes educacionais
@@ -43,9 +35,9 @@ class Web:
 def Options():
     show=f"""
     Software-Uso somente pra propositos educacionais
-    Author:Jamal Achire
-    Tiktok:P1UN-TECH
-    Youtube:P1UN-TECH
+    Author:Hyimjamal
+    Youtube:https://www.youtube.com/@hyimjamal
+    
 
         {Fore.GREEN}    ____ _____  ___   __
                       / __ <  / / / / | / /
