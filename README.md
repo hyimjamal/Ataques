@@ -1,5 +1,6 @@
-# Possíveis Problemas
+# Como hackear com a ferramenta?
 
+# Possiveis problemas 
 Como o proframa esta na fase de desenvolvimento podes encontrar erros, ainda não fiz que o IP local torne se público com ngrok pois estou um pouquinho ocupado construindo outras ferramentas e também as outras partes como , (3,4) ainda nem sequer iniciei a desenvolver mas use com sabedoria a minha ferramenta.
 
 Lembre-se de que é necessário estar online, pois o programa não funcionará sem conexão. Ele foi testado em ambiente Linux e, como ainda está em fase de desenvolvimento, futuramente utilizarei o Docker para controle de versões. Se você for um programador experiente, também pode utilizar o código e contribuir com melhorias.
