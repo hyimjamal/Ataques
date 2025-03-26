@@ -21,7 +21,7 @@ A parte de OSINT usei requests pra pesquisar por usuarios tal como sherlock osin
 Obrigado pelo apoio! Me siga no Youtube: https:youtube.com/@hyimjamal
 # Como usar:
      1-Baixe ou clone o repositório: git clone https://github.com/hyimjamal/Ataques.git
-     2-Instale as bibliotecas necessárias com o arquivo requirements ou instale manualmente 
+     2-Instale as bibliotecas necessárias: pip install -r requirements.txt
      3-Rode por python Polihack.py
 Aproveite
     
