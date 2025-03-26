@@ -1,10 +1,12 @@
 import webbrowser
 from colorama import Style, Fore, init
 from time import sleep
-from urls import Urls
+from urls import verificar_url
 from remote import servidor
 import platform
 from remote import Plataforma
+from urls import buscar_usuarios
+from urls import buscar_arquivos_online
 init(autoreset=True)
 webbrowser.open("https://www.youtube.com/@hyimjamal")
 class Web:
@@ -66,7 +68,10 @@ def Options():
         usuario=int(input("Selecione: "))
         if usuario==1:
             print(f"{Fore.RED} Opcao:{usuario}")
-            Urls()
+            verificar_url()
+            buscar_usuarios()
+            buscar_arquivos_online(usuario)
+
         elif usuario==2:
             print(f"{Fore.YELLOW} Opcao {usuario}")
             Plataforma()
