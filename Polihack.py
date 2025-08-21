@@ -8,7 +8,7 @@ from remote import Plataforma
 from urls import buscar_usuarios
 from urls import buscar_arquivos_online
 init(autoreset=True)
-webbrowser.open("https://www.youtube.com/@hyimjamal")
+webbrowser.open("https://www.youtube.com/@kingja2")
 class Web:
     def __init__(self):
         p="""
