@@ -12,9 +12,9 @@ webbrowser.open("https://www.youtube.com/@hyimjamal")
 class Web:
     def __init__(self):
         p="""
-        Autor: Hyimjamal
-        YOUTUBE:https://www.youtube.com/@hyimjamal
-        FACEBOOK:hyimjamal
+        Autor: P1UN(KINGJA)
+        YOUTUBE:https://www.youtube.com/@kingja2
+        FACEBOOK:Jamal Achirehow to build trojans? how to build trojans? 
         Instagram:instagram.com/eusoujamal_oficial?igsh=aGllMXMyZXV6M3po
         Deixe um incentivo deixando likes nas paginas.
 
@@ -37,8 +37,8 @@ class Web:
 def Options():
     show=f"""
     Software-Uso somente pra propositos educacionais
-    Author:Hyimjamal
-    Youtube:https://www.youtube.com/@hyimjamal
+    Author:KingJa
+    Youtube:https://www.youtube.com/@kingja2
     
 
         {Fore.GREEN}    ____ _____  ___   __
